@@ -5,6 +5,7 @@
   "main": "node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/gopal851215/nodejs-series-/issues"
   },
-  "homepage": "https://github.com/gopal851215/nodejs-series-#readme"
+  "homepage": "https://github.com/gopal851215/nodejs-series-#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11",
+    "save": "^2.9.0"
+  }
 }
