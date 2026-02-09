@@ -1,0 +1,19 @@
+{
+  "name": "backend-series",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gopal851215/nodejs-series-.git"
+  },
+  "author": "gopal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gopal851215/nodejs-series-/issues"
+  },
+  "homepage": "https://github.com/gopal851215/nodejs-series-#readme"
+}
